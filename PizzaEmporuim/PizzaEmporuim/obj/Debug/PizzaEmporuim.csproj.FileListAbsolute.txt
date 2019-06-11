@@ -1,0 +1,11 @@
+C:\Users\benca\Desktop\PizzaEmporium\PizzaEmporuim\PizzaEmporuim\bin\Debug\PizzaEmporuim.exe.config
+C:\Users\benca\Desktop\PizzaEmporium\PizzaEmporuim\PizzaEmporuim\bin\Debug\PizzaEmporuim.exe
+C:\Users\benca\Desktop\PizzaEmporium\PizzaEmporuim\PizzaEmporuim\bin\Debug\PizzaEmporuim.pdb
+C:\Users\benca\Desktop\PizzaEmporium\PizzaEmporuim\PizzaEmporuim\obj\Debug\PizzaEmporuim.csprojAssemblyReference.cache
+C:\Users\benca\Desktop\PizzaEmporium\PizzaEmporuim\PizzaEmporuim\obj\Debug\PizzaEmporuim.Form1.resources
+C:\Users\benca\Desktop\PizzaEmporium\PizzaEmporuim\PizzaEmporuim\obj\Debug\PizzaEmporuim.Properties.Resources.resources
+C:\Users\benca\Desktop\PizzaEmporium\PizzaEmporuim\PizzaEmporuim\obj\Debug\PizzaEmporuim.csproj.GenerateResource.cache
+C:\Users\benca\Desktop\PizzaEmporium\PizzaEmporuim\PizzaEmporuim\obj\Debug\PizzaEmporuim.csproj.CoreCompileInputs.cache
+C:\Users\benca\Desktop\PizzaEmporium\PizzaEmporuim\PizzaEmporuim\obj\Debug\PizzaEmporuim.exe
+C:\Users\benca\Desktop\PizzaEmporium\PizzaEmporuim\PizzaEmporuim\obj\Debug\PizzaEmporuim.pdb
+C:\Users\benca\Desktop\PizzaEmporium\PizzaEmporuim\PizzaEmporuim\obj\Debug\PizzaEmporuim.Resource1.resources
